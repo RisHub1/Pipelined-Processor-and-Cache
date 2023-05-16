@@ -1,0 +1,53 @@
+memory[0]=8519697
+memory[1]=12779535
+memory[2]=12648464
+memory[3]=8716307
+memory[4]=29360128
+memory[5]=4849668
+memory[6]=7077890
+memory[7]=1769474
+memory[8]=1179650
+memory[9]=2293763
+memory[10]=6094853
+memory[11]=10092547
+memory[12]=9568257
+memory[13]=29360128
+memory[14]=25165824
+memory[15]=23
+memory[16]=0
+memory[17]=32
+memory[18]=12
+memory[19]=-56
+
+$$$ transferring word [0-3] from the memory to the cache
+$$$ transferring word [0-0] from the cache to the processor
+$$$ transferring word [0-3] from the cache to nowhere
+$$$ transferring word [16-19] from the memory to the cache
+$$$ transferring word [17-17] from the cache to the processor
+$$$ transferring word [16-19] from the cache to nowhere
+$$$ transferring word [0-3] from the memory to the cache
+$$$ transferring word [1-1] from the cache to the processor
+$$$ transferring word [12-15] from the memory to the cache
+$$$ transferring word [15-15] from the processor to the cache
+$$$ transferring word [2-2] from the cache to the processor
+$$$ transferring word [0-3] from the cache to nowhere
+$$$ transferring word [16-19] from the memory to the cache
+$$$ transferring word [16-16] from the processor to the cache
+$$$ transferring word [16-19] from the cache to the memory
+$$$ transferring word [0-3] from the memory to the cache
+$$$ transferring word [3-3] from the cache to the processor
+$$$ transferring word [0-3] from the cache to nowhere
+$$$ transferring word [16-19] from the memory to the cache
+$$$ transferring word [19-19] from the cache to the processor
+$$$ transferring word [12-15] from the cache to the memory
+$$$ transferring word [4-7] from the memory to the cache
+$$$ transferring word [4-4] from the cache to the processor
+$$$ transferring word [5-5] from the cache to the processor
+$$$ transferring word [6-6] from the cache to the processor
+$$$ transferring word [7-7] from the cache to the processor
+$$$ transferring word [16-19] from the cache to nowhere
+$$$ transferring word [8-11] from the memory to the cache
+$$$ transferring word [8-8] from the cache to the processor
+$$$ transferring word [9-9] from the cache to the processor
+$$$ transferring word [10-10] from the cache to the processor
+$$$ transferring word [11-11] from the cache to the processor

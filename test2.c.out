@@ -1,0 +1,126 @@
+memory[0]=655361
+memory[1]=4980741
+memory[2]=17104896
+memory[3]=8454158
+memory[4]=9240579
+memory[5]=8650769
+memory[6]=9109522
+memory[7]=8716304
+memory[8]=14352386
+memory[9]=851970
+memory[10]=14417925
+memory[11]=20971520
+memory[12]=5898245
+memory[13]=25165824
+memory[14]=5
+memory[15]=673
+memory[16]=-123
+memory[17]=-1
+memory[18]=0
+
+$$$ transferring word [0-0] from the memory to the cache
+$$$ transferring word [0-0] from the cache to the processor
+$$$ transferring word [1-1] from the memory to the cache
+$$$ transferring word [1-1] from the cache to the processor
+$$$ transferring word [2-2] from the memory to the cache
+$$$ transferring word [2-2] from the cache to the processor
+$$$ transferring word [3-3] from the memory to the cache
+$$$ transferring word [3-3] from the cache to the processor
+$$$ transferring word [14-14] from the memory to the cache
+$$$ transferring word [14-14] from the cache to the processor
+$$$ transferring word [4-4] from the memory to the cache
+$$$ transferring word [4-4] from the cache to the processor
+$$$ transferring word [0-0] from the cache to nowhere
+$$$ transferring word [8-8] from the memory to the cache
+$$$ transferring word [8-8] from the cache to the processor
+$$$ transferring word [5-5] from the memory to the cache
+$$$ transferring word [5-5] from the cache to the processor
+$$$ transferring word [1-1] from the cache to nowhere
+$$$ transferring word [17-17] from the memory to the cache
+$$$ transferring word [17-17] from the cache to the processor
+$$$ transferring word [2-2] from the cache to nowhere
+$$$ transferring word [6-6] from the memory to the cache
+$$$ transferring word [6-6] from the cache to the processor
+$$$ transferring word [23-23] from the memory to the cache
+$$$ transferring word [23-23] from the cache to the processor
+$$$ transferring word [3-3] from the cache to nowhere
+$$$ transferring word [7-7] from the memory to the cache
+$$$ transferring word [7-7] from the cache to the processor
+$$$ transferring word [4-4] from the cache to nowhere
+$$$ transferring word [16-16] from the memory to the cache
+$$$ transferring word [16-16] from the cache to the processor
+$$$ transferring word [8-8] from the cache to the processor
+$$$ transferring word [14-14] from the cache to nowhere
+$$$ transferring word [2-2] from the memory to the cache
+$$$ transferring word [2-2] from the cache to the processor
+$$$ transferring word [5-5] from the cache to nowhere
+$$$ transferring word [9-9] from the memory to the cache
+$$$ transferring word [9-9] from the cache to the processor
+$$$ transferring word [6-6] from the cache to nowhere
+$$$ transferring word [10-10] from the memory to the cache
+$$$ transferring word [10-10] from the cache to the processor
+$$$ transferring word [17-17] from the cache to nowhere
+$$$ transferring word [5-5] from the memory to the cache
+$$$ transferring word [5-5] from the cache to the processor
+$$$ transferring word [23-23] from the cache to nowhere
+$$$ transferring word [11-11] from the memory to the cache
+$$$ transferring word [11-11] from the cache to the processor
+$$$ transferring word [16-16] from the cache to nowhere
+$$$ transferring word [12-12] from the memory to the cache
+$$$ transferring word [12-12] from the cache to the processor
+$$$ transferring word [9-9] from the cache to nowhere
+$$$ transferring word [13-13] from the memory to the cache
+$$$ transferring word [13-13] from the cache to the processor
+machine halted
+total of 14 instructions executed
+final state of machine:
+
+@@@
+state:
+	pc 14
+	memory:
+		mem[ 0 ] 655361
+		mem[ 1 ] 4980741
+		mem[ 2 ] 17104896
+		mem[ 3 ] 8454158
+		mem[ 4 ] 9240579
+		mem[ 5 ] 8650769
+		mem[ 6 ] 9109522
+		mem[ 7 ] 8716304
+		mem[ 8 ] 14352386
+		mem[ 9 ] 851970
+		mem[ 10 ] 14417925
+		mem[ 11 ] 20971520
+		mem[ 12 ] 5898245
+		mem[ 13 ] 25165824
+		mem[ 14 ] 5
+		mem[ 15 ] 673
+		mem[ 16 ] -123
+		mem[ 17 ] -1
+		mem[ 18 ] 0
+	registers:
+		reg[ 0 ] 12
+		reg[ 1 ] 5
+		reg[ 2 ] -118
+		reg[ 3 ] 0
+		reg[ 4 ] -1
+		reg[ 5 ] 117
+		reg[ 6 ] 0
+		reg[ 7 ] 0
+end state
+$$$ Main memory words accessed: 20
+
+cache:
+	set 0:
+		[ 0 ]: { 14352386 }
+		[ 1 ]: { 5898245 }
+	set 1:
+		[ 0 ]: { 8650769 }
+		[ 1 ]: { 25165824 }
+	set 2:
+		[ 0 ]: { 14417925 }
+		[ 1 ]: { 17104896 }
+	set 3:
+		[ 0 ]: { 8716304 }
+		[ 1 ]: { 20971520 }
+end cache
